@@ -3,3 +3,6 @@
 
 # Images
 *.png
+
+# Text
+.txt

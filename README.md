@@ -1,5 +1,7 @@
 # freeCodeCamp
 
-Built projects and test passed as part of certificacions on freeCodeCamp site.
+Built projects and test passed as part of certificacions on [freeCodeCamp]([www.freecodecamp.org](http://www.freecodecamp.org)).
 
-www.freecodecamp.org
+- Relational Databases
+
+- Machine Learning with Python
